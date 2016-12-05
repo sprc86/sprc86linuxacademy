@@ -1,0 +1,2 @@
+default[:apache][:sites][:sprc864] = { "port" => 80, "domain" => "sprc864.mylabserver.com" }
+default[:apache][:sites][:sprc864b] = { "port" => 80, "domain" => "sprc864b.mylabserver.com" }
